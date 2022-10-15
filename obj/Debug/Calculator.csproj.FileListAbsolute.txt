@@ -1,0 +1,11 @@
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\scoala\ioc(user interface)\laborator 4\Calculator\Calculator\obj\Debug\Calculator.pdb
